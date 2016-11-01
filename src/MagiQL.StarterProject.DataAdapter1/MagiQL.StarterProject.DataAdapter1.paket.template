@@ -1,0 +1,21 @@
+type file
+id MagiQL.QuickStart.DataAdapter
+authors Jon Menzies Smith
+description
+    MagiQL :: QuickStart Data Adapter Files
+files 
+    Constants.cs ==> content
+    KnownTables.cs ==> content
+    MyDataSource1.cs ==> content
+    MyDataSource1QueryBuilderBase.cs ==> content
+    MyDataSource1TableMappings.cs ==> content
+    MyDataSource1Components.cs ==> content  
+projectUrl
+    https://magiql.github.io
+licenseUrl
+    https://magiql.github.io/
+copyright
+    Copyright (c) 2016, salesforce.com, inc. All rights reserved.
+tags
+    MagiQL, QuickStart
+include-pdbs false

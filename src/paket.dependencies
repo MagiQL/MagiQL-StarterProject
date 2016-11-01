@@ -1,0 +1,9 @@
+source D:\packages
+source https://api.nuget.org/v3/index.json
+
+group Build
+
+    source https://api.nuget.org/v3/index.json
+
+nuget FSharp.Formatting
+    github fsharp/FAKE modules/Octokit/Octokit.fsx
